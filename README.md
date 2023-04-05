@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Banz520
 - 👀 I’m interested in game and web develpment and also in electronics
-- 🌱 I’m currently learning C++, Python, C#, JS and SQL
+- 🌱 I’m currently learning C++, Python, C#, JS, SQL and GML.
+- Have worked on Unity and Game Maker Studio 2
 - 💞️ I’m looking to collaborate on game development projects to learn more about that
 - 📫 How to reach me ...
 
