@@ -5,8 +5,8 @@
 - 💞️ I’m looking to collaborate on game development projects to learn more about that
 - Experienced on digital art 
 - 📫 How to reach me ...
- www.linkedin.com/in/ian-banzi-alvarez-flores-9891732a6
- ianbanzialvarezf@gmail.com 
+- www.linkedin.com/in/ian-banzi-alvarez-flores-9891732a6
+- ianbanzialvarezf@gmail.com 
 
 
 <!---
