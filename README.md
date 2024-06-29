@@ -1,7 +1,7 @@
-- 💻 I tried to make a game in unity when I was 8 and failed miserably, then I learned to code. 
+- 💻 I've always been in love with the worlds in videogames, I tried to make a game in unity when I was 8 and failed miserably, then I started learning how to code. 
 still trying since then... 😵
 
-- 🎮 Have worked on Unity, Godot, Game Maker Studio 2, Roblox Studio & UE 4, currently developing an rpg
+- 🎮 I have worked and tried Unity, Godot, Game Maker Studio 2, Roblox Studio & UE 4, and I'm currently developing an rpg and some other fangames (never start gamedev on unity its a mess)
 
 - 📖 I'm learing C++ for electronics, Python & JS for everything pretty much, SQL and others
   
