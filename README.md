@@ -1,15 +1,18 @@
-- 💻 I've always been in love with the worlds in videogames, I tried to make a game in unity when I was 8 and failed miserably, then I started learning how to code. 
-still trying since then... 😵
+-🚀 Hi there! I'm Ian Banzi Álvarez — a tech enthusiast who loves turning code into cool things!
 
-- 🎮 I have worked and tried Unity, Godot, Game Maker Studio 2, Roblox Studio & UE 4, and I'm currently developing an rpg and some other fangames (never start gamedev on unity its a mess)
+🎓 I'm a Computer Science and IT technologist from CETI Colomos (class of 2025), passionate about blending software and hardware to build smart, efficient, and sometimes quirky tech solutions.
 
-- 📖 I'm learing C++ for electronics, Python & JS for everything pretty much, SQL and others
-  
--  I’m looking to collaborate on game development projects to learn more about that :b
-- Experienced on digital art
-  
+💻 I speak fluent C, C++, C#, Java, JavaScript, PHP, SQL, and even microcontroller assembly (yes, I talk to the bits too). Whether it’s developing Android apps, writing embedded firmware for Arduino & ESP32, or making servers talk to databases — I’m in!
+
+📡 I also enjoy diving into networking, server setups, and circuit design, and I’m always hunting for ways to automate things and make life easier (Power BI and Firebase are in my toolbox too).
+
+📂 I'm a big fan of clean code, teamwork, and well-documented projects — because great code should be easy to understand and fun to build together!
+
+🌐 Bilingual (EN/ES), with curiosity as my compass and GitHub as my playground.
+Let’s build something awesome!
+
 - 📫 How to reach me ...
-- www.linkedin.com/in/ian-banzi-alvarez-flores-9891732a6
+- www.linkedin.com/in/ian-banzi
 - ianbanzialvarezf@gmail.com 
 
 
