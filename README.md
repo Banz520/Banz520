@@ -2,14 +2,13 @@
 
 🎓 I'm a Computer Science and IT Junior from CETI Colomos (class of 2025), passionate about blending software and hardware to build smart, efficient, and sometimes quirky tech solutions.
 
-I speak fluent C, C++, C#, Java, JavaScript, PHP, SQL, and even microcontroller assembly (yes, I talk to the bits too). Whether it’s developing Android apps, writing embedded firmware for Arduino & ESP32, or making servers talk to databases — I’m in!
+I speak fluent C, C++, C#, Java, SQL, and even microcontroller assembly (yes, I talk to the bits too). Whether it’s developing Android apps, writing embedded firmware for Arduino & ESP32, or making servers talk to databases — I’m in!
 
-I'm also into electronics and circuit design, and I’m always hunting for ways to automate things and make life easier (Firebase are in my toolbox too).
+I'm also into electronics, circuit design and 3d printing, and I’m always hunting for ways to automate things and make life easier.
 
 I'm a big fan of clean, understandable and documented code — because great code should be easy to understand to anyone!
 
 Bilingual (EN/ES), with curiosity as my compass and GitHub as my playground.
-Let’s build something awesome!
 
 - 📫 How to reach me ...
 - www.linkedin.com/in/ian-banzi
